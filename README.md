@@ -38,6 +38,9 @@ Project live screen recording:
 
 https://github.com/user-attachments/assets/82e2a787-dca7-4e38-affc-432177fdf535
 
+| Stock Ticker | SMA Crossover Chart | Crossover Signal |
+| :--- | :--- | :--- |
+
 <img width="1000" height="500" alt="AAPL_SMA20_crossover" src="https://github.com/user-attachments/assets/c3d57211-1632-4a7a-832c-0eb8d2b081bd" />
 
 <img width="1000" height="500" alt="TSLA_SMA20_crossover" src="https://github.com/user-attachments/assets/dca909db-d271-425b-9158-6eef7fe6109e" />
