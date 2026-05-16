@@ -38,9 +38,9 @@ Project live screen recording:
 
 https://github.com/user-attachments/assets/82e2a787-dca7-4e38-affc-432177fdf535
 
-## 📊 SMA Crossover Charts (Technical Analysis)
+## SMA Crossover Charts (Technical Analysis)
 
-Below are the **Simple Moving Average (SMA) crossover charts** generated for multiple stocks. Each chart shows the closing price along with the 20-day SMA (or 10/30-day depending on configuration). Crossovers indicate potential buy/sell signals.
+Below are the **Simple Moving Average (SMA) crossover charts** generated for multiple stocks.
 
 | **AAPL** | ![AAPL Chart] <img width="1000" height="500" alt="AAPL_SMA20_crossover" src="https://github.com/user-attachments/assets/c3d57211-1632-4a7a-832c-0eb8d2b081bd" /> | Bearish crossover in April |
 
