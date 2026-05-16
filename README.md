@@ -46,18 +46,28 @@ Below are the **Simple Moving Average (SMA) crossover charts** generated for mul
 ### AAPL - Price & SMA20
 <img width="1000" height="500" alt="AAPL_SMA20_crossover" src="https://github.com/user-attachments/assets/c3d57211-1632-4a7a-832c-0eb8d2b081bd" /> 
 
+### TSLA - Price & SMA20
+
 <img width="1000" height="500" alt="TSLA_SMA20_crossover" src="https://github.com/user-attachments/assets/dca909db-d271-425b-9158-6eef7fe6109e" />
 
+### AMZN - Price & SMA20
 
 <img width="1000" height="500" alt="AMZN_SMA20_crossover" src="https://github.com/user-attachments/assets/80d35b8c-1e34-4b33-a579-539f1009b112" />
+
+### MSFT - Price & SMA20
 
 <img width="1000" height="500" alt="MSFT_SMA20_crossover" src="https://github.com/user-attachments/assets/969b8ee4-b201-4abe-adab-e70633602938" />
 
 
+### GOOGL - Price & SMA20
+
 <img width="1000" height="500" alt="GOOGL_SMA20_crossover" src="https://github.com/user-attachments/assets/6b5f24d5-536a-470d-9022-3c3957674046" />
+
+### META - Price & SMA20
 
 <img width="1000" height="500" alt="META_SMA20_crossover" src="https://github.com/user-attachments/assets/b3f8c80c-c16a-4bfe-9883-acb428f5e2bb" />
 
+### AVGO - Price & SMA20
 
 <img width="1000" height="500" alt="AVGO_SMA20_crossover" src="https://github.com/user-attachments/assets/d5ce13cf-4e53-4b32-ab5d-836c99114aa8" />
 
