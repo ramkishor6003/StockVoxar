@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+textblob
+ta
+matplotlib
+gradio
+deep-translator
+gtts
+pydub
