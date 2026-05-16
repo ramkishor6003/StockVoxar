@@ -30,3 +30,7 @@ StockVoxar: An intelligent stock analysis tool with voice-based recommendations 
 - **Voice:** gTTS (online)
 - **Sentiment:** TextBlob / FinBERT
 
+Project Live Demo
+Project live screen recording:
+
+
