@@ -31,6 +31,13 @@ StockVoxar: An intelligent stock analysis tool with voice-based recommendations 
 - **Sentiment:** TextBlob / FinBERT
 
 Project Live Demo
+
 Project live screen recording:
+
+
+
+https://github.com/user-attachments/assets/82e2a787-dca7-4e38-affc-432177fdf535
+
+
 
 
