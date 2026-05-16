@@ -38,22 +38,28 @@ Project live screen recording:
 
 https://github.com/user-attachments/assets/82e2a787-dca7-4e38-affc-432177fdf535
 
-## 📊 SMA Crossover Analysis Gallery
+<img width="1000" height="500" alt="AAPL_SMA20_crossover" src="https://github.com/user-attachments/assets/c3d57211-1632-4a7a-832c-0eb8d2b081bd" />
 
-Below are the **SMA (Simple Moving Average) line charts** with technical crossover analysis for multiple stocks. Each chart shows the **20-day SMA** overlaid on the **closing price** from December 2025 to May 2026. Crossovers indicate potential buy/sell signals.
+<img width="1000" height="500" alt="TSLA_SMA20_crossover" src="https://github.com/user-attachments/assets/dca909db-d271-425b-9158-6eef7fe6109e" />
 
-| Stock | Chart | Crossover Summary |
-|-------|-------|-------------------|
-| **AAPL** | ![AAPL](<img width="1000" height="500" alt="AAPL_SMA20_crossover" src="https://github.com/user-attachments/assets/e6a3d53e-8198-4eb4-be4b-205957fc4e6f" />) | Bullish crossover in Jan 2026; bearish in Apr 2026. |
 
-| **MSFT** | ![MSFT](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%202.png) | Price holds above SMA Jan–Mar, dips below in Apr, recovers sharply in May. |
-| **AMZN** | ![AMZN](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%204.png) | Consistent above SMA until Mar, brief dip in Apr, then reversal. |
-| **AVGO** | ![AVGO](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%206.png) | Downtrend from Jan to Apr; May close above SMA signals potential reversal. |
-| *Other* | ![Chart1](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%201.png) | Sharp rise in Jan, then decline; May close above SMA. |
-| *Other* | ![Chart2](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%203.png) | Deep dip in Apr, then strong bounce in May (bullish crossover). |
-| *Other* | ![Chart3](images/Average%20%28SMA%29%20Line%20Chart%20with%20Technical%20Crossover%20Analysis%205.png) | High volatility; price recovers above SMA in May after Mar–Apr dip. |
+<img width="1000" height="500" alt="AMZN_SMA20_crossover" src="https://github.com/user-attachments/assets/80d35b8c-1e34-4b33-a579-539f1009b112" />
 
-> **Note:** SMA period used is 20 days (SMA20). Crossover signals are for educational purposes only.
+<img width="1000" height="500" alt="MSFT_SMA20_crossover" src="https://github.com/user-attachments/assets/969b8ee4-b201-4abe-adab-e70633602938" />
+
+
+<img width="1000" height="500" alt="GOOGL_SMA20_crossover" src="https://github.com/user-attachments/assets/6b5f24d5-536a-470d-9022-3c3957674046" />
+
+<img width="1000" height="500" alt="META_SMA20_crossover" src="https://github.com/user-attachments/assets/b3f8c80c-c16a-4bfe-9883-acb428f5e2bb" />
+
+
+<img width="1000" height="500" alt="AVGO_SMA20_crossover" src="https://github.com/user-attachments/assets/d5ce13cf-4e53-4b32-ab5d-836c99114aa8" />
+
+
+
+
+
+
 
 
 
