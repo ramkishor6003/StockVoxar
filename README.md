@@ -38,6 +38,13 @@ Project live screen recording:
 
 https://github.com/user-attachments/assets/82e2a787-dca7-4e38-affc-432177fdf535
 
+Sample of voice output files:
+[AAPL_output_speech .mp3](https://github.com/user-attachments/files/27996734/AAPL_output_speech.mp3)
+
+[TSLA_output_speech .mp3](https://github.com/user-attachments/files/27996838/TSLA_output_speech.mp3)
+
+
+
 ## SMA Crossover Charts (Technical Analysis)
 
 Below are the **Simple Moving Average (SMA) crossover charts** generated for multiple stocks.
